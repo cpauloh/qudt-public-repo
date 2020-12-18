@@ -1126,7 +1126,6 @@ quantitykind:CelsiusTemperature
   rdfs:isDefinedBy <http://qudt.org/2.1/vocab/quantitykind> ;
   rdfs:label "Celsius temperature"@en ;
   skos:broader quantitykind:ThermodynamicTemperature ;
-  prov:wasDerivedFrom quantitykind:ThermodynamicTemperature ;
 .
 quantitykind:CharacteristicAcousticImpedance
   a qudt:QuantityKind ;
